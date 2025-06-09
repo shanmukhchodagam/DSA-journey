@@ -6,7 +6,7 @@
     }
 
     public static boolean isPalindrome(int x) {
-    if (x < 0) return false; // Negative numbers are not palindromes
+    if (x < 0) return false; 
     int temp = x;
     int d = 0;
 
